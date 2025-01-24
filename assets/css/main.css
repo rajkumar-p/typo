@@ -144,8 +144,8 @@ hr {
 }
 
 .header p {
-  font-size: small;
-  font-family: var(--font-mono);
+  font-size: .8em;
+  font-family: var(--font-body);
   margin-top: var(--header-menu-top-gap);
   margin-right: var(--header-menu-side-gap);
 }
